@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Hola mundo"<<endl;
-    cout<<"Adios mundo"<<endl;
+    cout<<"Segundo archivo";
     return 0;
 }
